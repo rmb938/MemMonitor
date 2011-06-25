@@ -1,0 +1,3 @@
+name: MemMonitor
+main: com.mineempire.mem.MemMonitor
+version: 1.0
